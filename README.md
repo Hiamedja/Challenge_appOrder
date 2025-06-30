@@ -30,19 +30,22 @@ Créer une interface mobile avec React Native qui permettrait à un commerçant 
 for better visual understanding
 1er design 
 
-https://github.com/user-attachments/assets/876064c1-8801-4a1b-bd35-21cdc7966b1b
+
+https://github.com/user-attachments/assets/6c46285d-79f2-456d-94ba-8c6bf2480f48
+
 
 2eme design
 
-https://github.com/user-attachments/assets/9ce1bfdb-8bd6-42cd-b898-2ad5a874a49b
 
-![screen1](https://github.com/user-attachments/assets/2999ce3a-986f-4af4-872c-2c282b08649c)
+https://github.com/user-attachments/assets/6592fdbe-bd99-4aae-afb6-92ef15297835
 
-![screen2](https://github.com/user-attachments/assets/19ec657a-d270-4f77-9568-1d5f826bb354)
+![screen1](https://github.com/user-attachments/assets/7f3395aa-674c-443c-88fd-471c0137a1e0)
 
-![screen 3](https://github.com/user-attachments/assets/d6001db3-d062-4504-aeaa-9c8dbedc3494)
+![screen2](https://github.com/user-attachments/assets/d82995af-c7e4-4fbe-95e6-e4163658ccc7)
 
-![screen 4](https://github.com/user-attachments/assets/005fa8e1-90c2-411c-a715-38ef41dc1a5f)
+![screen 3](https://github.com/user-attachments/assets/4f700653-774d-4156-8396-e7bc5e98b7c1)
+
+![screen 4](https://github.com/user-attachments/assets/f6f21abe-a736-4432-8a7a-738b02d266c7)
 
 ---
 
