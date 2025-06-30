@@ -407,9 +407,6 @@ const styles = StyleSheet.create({
       backgroundColor: '#d4edda',
       borderColor: '#c3e6cb',
     },
-    customerNameReady: {
-      color: '#1c1e21',
-    },
     orderNumberReady: {
       color: '#65676b',
     },
@@ -417,7 +414,7 @@ const styles = StyleSheet.create({
       color: '#65676b',
     },
     emptyCard: {
-        backgroundColor: '#e9ebee',
+        backgroundColor: '#28284E',
         borderWidth: 1,
         borderStyle: 'dashed',
         borderColor: '#c0c0c0',
@@ -597,6 +594,10 @@ const styles = StyleSheet.create({
         lineHeight: 18,
         borderWidth: 1,
         borderColor: '#1c1c36',
+    },
+
+    customerNameReady: {
+        color: '#fff',
     },
 });
 
